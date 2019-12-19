@@ -1,3 +1,3 @@
 export const AppConfiguration = {
-    baseUrl: 'http://localhost:5000/api/'
+    baseUrl: 'https://e-notification-rest-service.herokuapp.com/api/'
 };
